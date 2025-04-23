@@ -1,0 +1,14 @@
+C:\Users\MOISÉS\TreinoVariaveis\bin\Debug\net8.0\TreinoVariaveis.exe
+C:\Users\MOISÉS\TreinoVariaveis\bin\Debug\net8.0\TreinoVariaveis.deps.json
+C:\Users\MOISÉS\TreinoVariaveis\bin\Debug\net8.0\TreinoVariaveis.runtimeconfig.json
+C:\Users\MOISÉS\TreinoVariaveis\bin\Debug\net8.0\TreinoVariaveis.dll
+C:\Users\MOISÉS\TreinoVariaveis\bin\Debug\net8.0\TreinoVariaveis.pdb
+C:\Users\MOISÉS\TreinoVariaveis\obj\Debug\net8.0\TreinoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOISÉS\TreinoVariaveis\obj\Debug\net8.0\TreinoVariaveis.AssemblyInfoInputs.cache
+C:\Users\MOISÉS\TreinoVariaveis\obj\Debug\net8.0\TreinoVariaveis.AssemblyInfo.cs
+C:\Users\MOISÉS\TreinoVariaveis\obj\Debug\net8.0\TreinoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\MOISÉS\TreinoVariaveis\obj\Debug\net8.0\TreinoVariaveis.dll
+C:\Users\MOISÉS\TreinoVariaveis\obj\Debug\net8.0\refint\TreinoVariaveis.dll
+C:\Users\MOISÉS\TreinoVariaveis\obj\Debug\net8.0\TreinoVariaveis.pdb
+C:\Users\MOISÉS\TreinoVariaveis\obj\Debug\net8.0\TreinoVariaveis.genruntimeconfig.cache
+C:\Users\MOISÉS\TreinoVariaveis\obj\Debug\net8.0\ref\TreinoVariaveis.dll
